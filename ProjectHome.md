@@ -1,0 +1,1 @@
+jSIMD (SIMple DDS) is a Java API intended to greatly simplify the use of DDS. As such, SIMD uses templates and some little template meta-programming to provide an API that reduces by several times the line of code that need to be written for a DDS application. With SIMD you can write a DDS application in 4 lines of code!
